@@ -1,0 +1,195 @@
+json skeemer validation before send to glowforge ?
+
+
+
+Computer name：HUAHR013、5CG4380Q62
+
+HUACLNB364a
+
+SCTASK1781895  Yue Yan
+JET QA 办公电脑 需要激活EXCEL ，安装打字软件
+
+
+
+        Domain Users
+        Everyone
+        Netmon Users
+        Offer Remote Assistance Helpers
+        BUILTIN\Users
+        BUILTIN\Administrators
+        NT AUTHORITY\INTERACTIVE
+        CONSOLE LOGON
+        NT AUTHORITY\Authenticated Users
+        This Organization
+        LOCAL
+        PEN ETV JPE RO
+        PEN Agilent SPO DEFOA.Read
+        SAN-!Cust-Zebra RO
+        gotfile01_!g_TOK_JTS_Agile_RO
+        CTU RDS GPO Users
+        SZH Filesvr Non-SZH Users
+        PEN Agilent VA.Read
+        PEN Datapool.Change
+        RJN_NCRTesterDB_RO
+        BCM_Planner
+        HUA CN_DN READ
+        PEN ShareArea.READ
+        HCM_ING_TRA_RW
+        KWI-list_all_folders
+        TCH_FileSvr_Read
+        GMS Web Readers
+        BRE_SHARE_DA_W
+        TAG_CNHUAG0GEAPDB01_Admin
+        awsgw_ PLKWIM0AWSFGW02_SPI_ro
+        MACM2_ITDISTR_R
+        HCM_TestMfgData_TE.L&G_Read
+        COR_Corfile1_Quality_OPS_Public_Read
+        SAN-!Cust-LTXC RO
+        HUACL_User_USB_Access
+        RJN_AuditReadiness_RO
+        CIS_Engineers
+        GDL Flex Line Read
+        SAN-!Cust-Siemens RO
+        gotfile01_!g_TOK_JTS_Axis_Q&D_RO
+        TAG_CNHUAM1STGDB81_Admin
+        PEN !QAreport.READ
+        hacfile01_!g_Temp_RW
+        TM1Share_Read
+        PAG_CNSLFM0FOAP01_User
+        O365_Licensing_E3
+        WUX_TVDisplay_RO
+        COR_DSL_Read
+        IAM_Coupa_03
+        HUACL IQC RO
+        HUACL SCCM Techs
+        Everyone
+        HUA_VPN_Access
+        WUX_ME_RO
+        PEN HR Pen All.Read
+        SAN-!Cust-Fastback Net RO
+        PEN HR JPE ER Archieve.Read
+        GDL1_MXGDLM0TE01_TE_Whirpool_RO
+        RJN_wh-program_RO
+        TAG_CNHUAM1LSQLN1A_Admin
+        COR_Corfile1_CFE_Events_Registration_CHANGE
+        DOCCON (Read Only)
+        gotfile01_!g_TOK_Jabil.co.jp_RO
+        HUACL DE Public Read
+        gotfile01_!g_TOK_JTS_Axis_QCD_RO
+        Other Jabil Employees (Folder List)
+        HUACL SORCER RO
+        SAN-!Cust-DDN RO
+        SAN-!Cust-NetApp RW
+        wvd_ap_aduc
+        COR_GMS_Read
+        HUA HR C&B_Public Shared Read
+        PEN LLMWIN32.READ
+        SHA iMED_PCBA_MFG RO
+        gotfile01_!g_TOK_ESD_ctrl_RO
+        awsgw_ PLKWIM0AWSFGW02_AOI_ro
+        gotfile01_!g_GOT_Self Assessm_RO
+        PEN Jabil GPS Project.Read
+        PEN !General.READ
+        WUX_DocconABC_RO
+        WUH_D_Files_OPs_D_Security_R
+        MXGDL4_IDEB5_Cestron_R
+        PEN QA Solder Paste Insp.Read
+        SHA_CareFusion_MultiMedia_RO
+        TIS TISGVPRN01 Scan Folder
+        COR_Corfile1_LeanBCert_Proj_RD
+        TAG_CNHUAM1TEFILE01_Admin
+        PEN Lean Six Sigma - JOS.CHANGE
+        HUACL_WEB_AL0_BaseL
+        SHA_System Info_RO
+        PEN GuiScripts.change
+        TAG_CNHUAG0PIS01_Admin
+        hacfile01_SMS_DP_RO
+        WUH_Workcell_ADVA_Read
+        TSOT_RW
+        PEN SAP999.READ
+        PEN SAPPrint.Read
+        SAN-!Cust-Mcafee RO
+        PEN Reports.Read
+        HUA DL sharing Read
+        PEN StandardWallpaper.READ
+        gotfile01_!g_TOK_RO
+        SGSIND0PENWEB01_eTCD_R
+        BOS_VALOR_Viewer
+        HUA NCOV RD
+        PEN Scan doc_!General.Change
+        HUA CL IT Admin
+        HUA Valeo MFG RW
+        HUACL SFM ENDUSER
+        WUX E-Form RO
+        PEN Benefits.Read
+        STP_SVC_Acc
+        SIN-sgsin004-RW
+        IAM_Coupa_All
+        COR_CJOIN_IT
+        Jabil Default Security Policy Loopback Apply
+        PEN IPC.READ
+        WUX Data Exchange RO
+        MACM2_5S_Read
+        SAN-!Cust-Arista RO
+        hacfile01_SMS_DP_RW
+        JGP All Users
+        Nasuni_Builtin_Access
+        IAM_AIO_DEV_EXECUTOR
+        TIS LSS All Special Access
+        MBAMHelpDsk
+        Global_SCCM_Reports
+        IAM_Okta_VPN_Pilot
+        ITSO Global Client Services Approval
+        CMDB_Asset_management
+        GBSFIN_JGPHuangpu
+        MBAMRUGrp
+        HUA Websense Users
+        O365_Licensing_BIPRO
+        SCCM_Report_ASR
+        IAM_ARS_DEV
+        Global_CAPA_AUDIT_Extracts
+        HGU_IT_Support
+        PEN Jabilization Checklist.Read
+        IAM_BPaaS_PRD
+        IAM_Mendix_Platform_Prd
+        SJDC
+        HGU_IT_COMM
+        PEN Lean Six Sig P1 SGA 5S -R
+        COR_VPN_Access
+        SCOR_Operators_Sites
+        HCM_RDS_MES-RPT
+        xMatters_Stake_holder
+        IAM_JEMSum_PRD
+        HRZ_Users
+        JGP_HUA_IT_SS_Support
+        IAM_ServiceNow
+        IAMWeb_AL0_Base_original
+        OMS_Read_Only_User
+        CTUNAS01-FATP-RO
+        Fairchild_Planner
+        MBAMAdvHelpDsk
+        HUA CL IT Support
+        IAM_KeyFactor_Production
+        wvd_users
+        IT_Global_SCOM_ReadOnly
+        Global IT Employees
+        wvd_ap_opsconsole
+        Multiple_groups_for_Zscaler__See_Description
+        TAG_CNHGUM0JETTE01_Admin
+        CRC WorkCell Training Read
+        JGP
+        JGP_HUA All Personnel
+        wvd_ap_cmconsole
+        IAM_ARS_PRD
+        HGU-Pilot-User-S-U
+        JGP IT
+        ITSO_GCS_Win10Deploy
+        Authentication authority asserted identity
+        Legacy  Pre-Windows 2000 Compatible Access
+        HCM_6.TE_Read
+        STP Weekend Schedule
+        HCM_4.IE_Read
+        HCM_Customer_Data_Read
+        cor_cjoin
+        HCM_7.QE_Read
+        High Mandatory Level
